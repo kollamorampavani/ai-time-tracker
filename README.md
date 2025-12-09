@@ -6,13 +6,13 @@ A web application that lets users log their daily activities in minutes and anal
 
 ## 🚀 Live Demo
 
-- **Deployed Link:** https://YOUR_GITHUB_PAGES_URL
+- **Deployed Link:** https://kollamorampavani.github.io/ai-time-tracker/
 
 ---
 
 ## 🎥 Video Walkthrough
 
-- **Watch the demo (2–5 min):** https://YOUR_VIDEO_LINK
+- **Watch the demo (2–5 min):** https://youtu.be/cs8F0Zb9GWE?si=4-WjApGXuiSOz5sA
 
 In the video, you can see:
 - Login / Sign up flow
@@ -126,8 +126,7 @@ This makes it easy to query all activities for a specific user and date.
 
 1. **Clone the repository**
 
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/kollamorampavani/ai-time-tracker
 
 2. **Set up Firebase**
 
@@ -176,6 +175,6 @@ git push origin main
 - Save the configuration.
 
 3. After a short build, GitHub Pages will give you a deployment URL like:
+https://kollamorampavani.github.io/ai-time-tracker/
 
-https://<your-username>.github.io/<your-repo-name>/
 4. Use this URL as your **Live Demo** link in the submission.
